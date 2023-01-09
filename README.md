@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 I am an undergraduate CS student 👩‍🎓 from India.
 
-- 🌱: Interested in Data Science, Back-End Development and Machine Learning.
+- 🌱: Interested in Data Science and Machine Learning.
 - ⚡: I work on small personal projects in my free time.
 
 ---
