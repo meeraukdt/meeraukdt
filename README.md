@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 
 ### 👩‍💻: &nbsp; About Me :
 
-I am an undergraduate CS student 👩‍🎓 from India
-Pursuing B.Tech at College of Engineering, Trivandrum (CET)
+I am an undergraduate CS student 👩‍🎓 from India, pursuing B.Tech at College of Engineering, Trivandrum (CET)
 
 - 🌱: Interested in Data Science and Machine Learning.
 - ⚡: I work on small personal projects in my free time.
