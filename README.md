@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
+  <br>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=sea-salt-ed&style=flat-square&color=blue" alt=""/></p>
   <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 </div>
