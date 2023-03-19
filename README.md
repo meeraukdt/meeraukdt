@@ -17,6 +17,12 @@ Here are some ideas to get you started:
   <div id="badges">
     <a href="https://www.linkedin.com/in/meera-unnikandath-030305243">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>&nbsp;
+    <a href="https://twitter.com/meeraukdt">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>&nbsp;
+    <a href="https://www.instagram.com/meeraukdt/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=sea-salt-ed&style=flat-square&color=blue" alt=""/></p>
@@ -43,6 +49,8 @@ I am an undergraduate CS student 👩‍🎓 from India.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" height="40" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="40" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height="40" width="40" />&nbsp;
 </div>
 
 ---
