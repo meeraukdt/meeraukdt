@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <p align="center"><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="100"  /></p>
+  <p align="center"><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="100"/></p>
 </div>
 
 ---
