@@ -55,5 +55,5 @@ I am an undergraduate CS student 👩‍🎓 from India, pursuing B.Tech at Coll
 ---
 
 ### ⭐ &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sea-salt-ed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeraukdt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
