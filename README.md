@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </div>
   <br>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=meeraukdt&style=flat-square&color=blue" alt=""/>
-  <h1 align="center">Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt=""/></h1></p>
+<!--   <h1 align="center">Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt=""/></h1></p> -->
 </div>
 
 <div align="center">
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 ### 👩‍💻: &nbsp; About Me :
 
-I am an undergraduate CS student 👩‍🎓 from India, pursuing B.Tech at College of Engineering, Trivandrum (CET)
+pursuing B.Tech in Computer Science and Engineering
 
-- 🌱: Interested in Data Science and Machine Learning.
+- 🌱: Interested in Embedded Systems, Data Science and Machine Learning.
 - ⚡: I work on small personal projects in my free time.
 
 ---
@@ -50,6 +50,8 @@ I am an undergraduate CS student 👩‍🎓 from India, pursuing B.Tech at Coll
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="40" width="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" height="40" width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" title="Matplotlib" alt="Matplotlib" height="40" width="40" />&nbsp;
+  KiCAD&nbsp;
 </div>
 
 ---
